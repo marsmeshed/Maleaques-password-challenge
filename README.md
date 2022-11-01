@@ -5,7 +5,11 @@
  I built this project mainly to showcase my programming using Javascript. This short program will solve issues regarding password needing. You'll never need to sit and brainstorm for a strong password, it's now easier than ever. I learned many elements of JS throughout this project including: null and its cause.
 
 ## Usage
+Here's a screenshot showing a mockup of what should appear when loading up the program.
 <img src="./ss.png" alt="screenshot of mockup">
+
+Here's a link to the actual program.
+https://marsmeshed.github.io/Maleaques-password-challenge/
 
 ## Installation
 
