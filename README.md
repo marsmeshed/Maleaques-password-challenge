@@ -4,24 +4,11 @@
  The motivation behind this project was to not only assist myself and others who are in dire need of a randomly generated password, but to display my skills in JS.
  I built this project mainly to showcase my programming using Javascript. This short program will solve issues regarding password needing. You'll never need to sit and brainstorm for a strong password, it's now easier than ever. I learned many elements of JS throughout this project including: null and its cause.
 
-
+## Usage
 
 ## Installation
 
 No special steps needed for installation, just a stable connection. Click the URL and it'll be ready for instant use.
-
-## Usage
-
-(assets/)
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
 
 
 ## License
